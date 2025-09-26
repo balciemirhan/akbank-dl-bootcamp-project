@@ -6,8 +6,8 @@ Projenin amacı, **kedi ve köpek resimlerini ayırt edebilen** bir **Convolutio
 ---
 
 ## 📌 İçindekiler
-- [🎯 Projenin Amacı](#projenin-amacı)
-- [📂 Veri Seti](#veri-seti)
+- [🎯 Projenin Amacı](#-projenin-amacı)
+- [📂 Veri Seti](#-veri-seti)
 - [📚 Kullanılan Kütüphaneler](#-kullanılan-kütüphaneler)
 - [⚙️ Metodoloji](#️-metodoloji)
 - [🏗️ Model Mimarisi](#️-model-mimarisi)
